@@ -1,7 +1,7 @@
 package com.test.lib2;
 
 public class Source2 {
-	private String ENVIRONMENT="DEVELOP";
+	private String ENVIRONMENT="SVILUPPO";
 	private int num = 20;
 	
 	public void printEnvironment() {
