@@ -1,0 +1,18 @@
+# Ignora la cartella di Eclipse
+.metadata/
+
+# Ignora i progetti che NON vuoi versionare
+Library_1/
+Library_2/
+PrincipalProject/
+
+# Ignora i target Maven
+target/
+
+# Ignora file di Eclipse
+.classpath
+.project
+.settings/
+
+# Ignora log e file temporanei
+*.log
