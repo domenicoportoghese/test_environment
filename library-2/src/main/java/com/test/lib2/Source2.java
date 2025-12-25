@@ -2,7 +2,7 @@ package com.test.lib2;
 
 public class Source2 {
 	private String ENVIRONMENT="VALIDAZIONE";
-	private int num = 20;
+	private int num = 200;
 	
 	public void printEnvironment() {
 		System.out.println("Get second number from "+ENVIRONMENT+" environment");
